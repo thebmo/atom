@@ -1,0 +1,29 @@
+"*":
+  core:
+    telemetryConsent: "no"
+  "default-language":
+    defaultLanguage: "Ruby"
+  editor:
+    fontSize: 15
+    invisibles: {}
+    showIndentGuide: true
+    showInvisibles: true
+    tabType: "soft"
+    zoomFontWhenCtrlScrolling: true
+  "exception-reporting":
+    userId: "edaacde8-2b12-a662-55f5-1b0cfeced7f4"
+  "highlight-line":
+    enableSelectionBorder: true
+  linter:
+    errorPanelHeight: 137
+    showErrorPanel: false
+  "spell-check":
+    grammars: [
+      "source.ruby"
+    ]
+  tabs:
+    enableVcsColoring: true
+    usePreviewTabs: true
+  "tree-view": {}
+  welcome:
+    showOnStartup: false

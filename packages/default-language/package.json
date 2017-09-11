@@ -1,0 +1,67 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "/private/var/folders/lg/7bhlx9gn673fw7qrm9k1mtpw0000gn/T/d-116921-3290-13z8yhf/package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "/private/var/folders/lg/7bhlx9gn673fw7qrm9k1mtpw0000gn/T/d-116921-3290-13z8yhf/package.tgz",
+        "spec": "/private/var/folders/lg/7bhlx9gn673fw7qrm9k1mtpw0000gn/T/d-116921-3290-13z8yhf/package.tgz",
+        "type": "local"
+      },
+      "/private/var/folders/lg/7bhlx9gn673fw7qrm9k1mtpw0000gn/T/apm-install-dir-116921-3290-1yhkyry"
+    ]
+  ],
+  "_from": "../d-116921-3290-13z8yhf/package.tgz",
+  "_id": "default-language@0.3.0",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/default-language",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "/private/var/folders/lg/7bhlx9gn673fw7qrm9k1mtpw0000gn/T/d-116921-3290-13z8yhf/package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "/private/var/folders/lg/7bhlx9gn673fw7qrm9k1mtpw0000gn/T/d-116921-3290-13z8yhf/package.tgz",
+    "spec": "/private/var/folders/lg/7bhlx9gn673fw7qrm9k1mtpw0000gn/T/d-116921-3290-13z8yhf/package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:../d-116921-3290-13z8yhf/package.tgz",
+  "_shasum": "a689186f2c484a913fb367d7cfc32c00fc334f33",
+  "_shrinkwrap": null,
+  "_spec": "/private/var/folders/lg/7bhlx9gn673fw7qrm9k1mtpw0000gn/T/d-116921-3290-13z8yhf/package.tgz",
+  "_where": "/private/var/folders/lg/7bhlx9gn673fw7qrm9k1mtpw0000gn/T/apm-install-dir-116921-3290-1yhkyry",
+  "bugs": {
+    "url": "https://github.com/Fankserver/atom-default-language/issues"
+  },
+  "dependencies": {},
+  "description": "Fallback language if no language can be detected",
+  "devDependencies": {},
+  "engines": {
+    "atom": ">=0.174.0 <2.0.0"
+  },
+  "homepage": "https://github.com/Fankserver/atom-default-language",
+  "keywords": [
+    "unkown",
+    "null",
+    "grammar",
+    "language",
+    "default",
+    "fallback"
+  ],
+  "main": "./lib/index",
+  "name": "default-language",
+  "optionalDependencies": {},
+  "readme": "# Fallback language configuration for Atom\n\n![default-language](https://github.com/Fankserver/atom-default-language/raw/master/preview.gif)\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fankserver/atom-default-language.git"
+  },
+  "version": "0.3.0"
+}

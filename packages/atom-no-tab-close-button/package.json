@@ -1,0 +1,67 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "/private/var/folders/lg/7bhlx9gn673fw7qrm9k1mtpw0000gn/T/d-116921-3290-c8t8pl/package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "/private/var/folders/lg/7bhlx9gn673fw7qrm9k1mtpw0000gn/T/d-116921-3290-c8t8pl/package.tgz",
+        "spec": "/private/var/folders/lg/7bhlx9gn673fw7qrm9k1mtpw0000gn/T/d-116921-3290-c8t8pl/package.tgz",
+        "type": "local"
+      },
+      "/private/var/folders/lg/7bhlx9gn673fw7qrm9k1mtpw0000gn/T/apm-install-dir-116921-3290-gqey55"
+    ]
+  ],
+  "_from": "../d-116921-3290-c8t8pl/package.tgz",
+  "_id": "atom-no-tab-close-button@1.0.0",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/atom-no-tab-close-button",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "/private/var/folders/lg/7bhlx9gn673fw7qrm9k1mtpw0000gn/T/d-116921-3290-c8t8pl/package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "/private/var/folders/lg/7bhlx9gn673fw7qrm9k1mtpw0000gn/T/d-116921-3290-c8t8pl/package.tgz",
+    "spec": "/private/var/folders/lg/7bhlx9gn673fw7qrm9k1mtpw0000gn/T/d-116921-3290-c8t8pl/package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:../d-116921-3290-c8t8pl/package.tgz",
+  "_shasum": "9da181d15f04d6ce428f57ee62af5450840f9bed",
+  "_shrinkwrap": null,
+  "_spec": "/private/var/folders/lg/7bhlx9gn673fw7qrm9k1mtpw0000gn/T/d-116921-3290-c8t8pl/package.tgz",
+  "_where": "/private/var/folders/lg/7bhlx9gn673fw7qrm9k1mtpw0000gn/T/apm-install-dir-116921-3290-gqey55",
+  "author": {
+    "name": "Ben Stanley"
+  },
+  "bugs": {
+    "url": "https://github.com/benstanley/atom-no-tab-close-button/issues"
+  },
+  "dependencies": {},
+  "description": "Removes the close buttons from tabs (you can still close tabs with CMD+W or by clicking tab with Mouse3 button)",
+  "devDependencies": {},
+  "engines": {
+    "atom": ">=1.0.0"
+  },
+  "homepage": "https://github.com/benstanley/atom-no-tab-close-button#readme",
+  "keywords": [
+    "tabs",
+    "close",
+    "hide"
+  ],
+  "license": "MIT",
+  "name": "atom-no-tab-close-button",
+  "optionalDependencies": {},
+  "readme": "# No Tab Close Button\n\nRemoves the close buttons from tabs (you can still close tabs with CMD+W or by clicking tab with Mouse3 button)\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benstanley/atom-no-tab-close-button.git"
+  },
+  "version": "1.0.0"
+}
